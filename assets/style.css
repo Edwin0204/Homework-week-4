@@ -114,3 +114,29 @@ h3 {
 .choice-text{
    margin: 5%;
 }
+
+#wrong-answer {
+    font-size: 1rem;
+    width: 50em;
+    text-align: start;
+    margin-bottom: .3rem;
+    margin-top: 1rem;
+    color: gray;
+    text-decoration: none;
+    position: relative;
+    left: -5rem;
+    border-top: solid gray;
+}
+
+#correct-answer {
+    font-size: 1rem;
+    width: 50em;
+    text-align: start;
+    margin-bottom: .3rem;
+    margin-top: 1rem;
+    color: gray;
+    text-decoration: none;
+    position: relative;
+    left: -5rem;
+    border-top: solid gray;
+}
