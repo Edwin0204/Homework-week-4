@@ -91,3 +91,26 @@ h3 {
     border-radius: .5rem;
 }
 
+.choice-container {
+    display: flex;
+    font-size: 1rem;
+    width: 10rem;
+    text-align: center;
+    border: .1rem solid purple;
+    margin-bottom: .3rem;
+    color: white;
+    text-decoration: none;
+    background-color: purple;
+    border-radius: .5rem;
+    position: relative;
+    left: -25rem;
+}
+
+.choice-container:hover {
+    cursor: pointer;
+    filter: brightness(150%);
+}
+
+.choice-text{
+   margin: 5%;
+}
