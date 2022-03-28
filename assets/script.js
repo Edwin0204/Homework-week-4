@@ -67,9 +67,6 @@ function setTime() {
     }, 1000);
   }
   
-
-
-
 function playGame() {
     questionCounter=0;
     score = 0;
