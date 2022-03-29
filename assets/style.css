@@ -175,3 +175,7 @@ form {
         margin-bottom: 0.5rem;
     }
     
+    .btn:hover {
+        cursor: pointer;
+        filter: brightness(150%);
+    }
